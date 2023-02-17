@@ -57,3 +57,7 @@ img {
     row-gap: 20px;
   
 }
+
+h2{
+    color: var(--dark-blue);
+}
