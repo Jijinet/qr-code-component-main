@@ -20,17 +20,14 @@ p {
 
 body {
   background-color: var(--light-gray);
+  display: grid;
+  min-height: 100vh;
+  place-content: center;
+
 }
 
-main {
-  height: 950px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
 
 .card {
-  height: 50%;
   width: 300px;
   background-color: white;
   border-radius: 20px;
