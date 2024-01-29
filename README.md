@@ -28,8 +28,8 @@ Users should be able to see hover states for interactive elements.
 
 ### Screenshot
 
-![PC View](./screenshots/Capture%20d%E2%80%99%C3%A9cran%202023-03-09%20110104.png)
-![Mobile view](./screenshots/Capture%20d%E2%80%99%C3%A9cran%202023-03-09%20105955.png)
+![PC View](./screenshots/Capture%20d’écran%202023-03-09%20110104.png)
+![Mobile view](./screenshots/Capture%20d'écran%202024-01-29%20220502.png)
 
 ### Links
 
